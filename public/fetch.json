@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "projectId": 1,
+      "projectName": "KlangSkincare",
+      "projectDescription": "This is the description for Project A",
+      "projectDuration": ".....",
+      "projectLanguages": "HTML, CSS",
+      "projectLink": "https://github.com/jenniferklang/KlangSkincare",
+      "projectImg": "src/assets/KlangSkincare2.png"
+    },
+    {
+      "projectId": 2,
+      "projectName": "DailyHoroscope",
+      "projectDescription": "This is the description for Project B",
+      "projectDuration": "....",
+      "projectLanguages": "HTML, CSS",
+      "projectLink": "https://example.com/project-b",
+      "projectImg": "src/assets/DailyHoroscope1.png"
+    },
+    {
+      "projectId": 3,
+      "projectName": "MakeupDjungle",
+      "projectDescription": "This is the description for Project C",
+      "projectDuration": ".....",
+      "projectLanguages": "HTML, CSS",
+      "projectLink": "https://example.com/project-c",
+      "projectImg": "src/assets/MakeupDjungle.png"
+    },
+    {
+      "projectId": 4,
+      "projectName": "Coming soon...",
+      "projectDescription": "This is the description for Project C",
+      "projectDuration": "......",
+      "projectLanguages": "HTML, CSS",
+      "projectLink": "https://example.com/project-c",
+      "projectImg": "src/assets/sunflower.jpg"
+    },
+
+    {
+      "projectId": 5,
+      "projectName": "Coming soon.. ",
+      "projectDescription": "This is the description for Project C",
+      "projectDuration": "9 months",
+      "projectLanguages": "HTML, CSS",
+      "projectLink": "https://example.com/project-c",
+      "projectImg": "src/assets/sunflower.jpg"
+    }
+  ]
+}
